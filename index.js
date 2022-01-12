@@ -85,7 +85,7 @@ client.on('message', (channel, user, message) => {
 
 });
 
-const Options = {
+const options = {
     options: { debug: true },
     connection: {
         reconnect: true,
