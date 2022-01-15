@@ -9,7 +9,7 @@ This bot was meant to be used as a Twitch chat bot. I created this bot using Chr
 <h2 align="center"> Bot download and configuration </h2>
 <h3> Bot Download </h3>
 Step 1 – Install Node.JS on your pc by going to this link https://nodejs.org/en/ <br>
-Step 2 – Create a new folder on your Desktop (or wherever you feel most comfortable) to store you bot project <br>
+Step 2 – Create a new folder on your Desktop (or wherever you feel most comfortable) to store your bot project <br>
 Step 3 – Download Visual Studio Code if you don’t have it already https://code.visualstudio.com/ <br>
 Step 4 – Sign into Twitch and get the oauth code from https://twitchapps.com/tmi/ (this has to be done for each account you are adding to the bot so I suggest having all the information on a sticky or notepad because you will need the information later) <br>
 Step 5 – Open VS Code and navigate to the folder you created for the bot. (if you need instructions for Visual Studio Code, you can watch this https://www.youtube.com/watch?v=WPqXP_kLzpo ) <br>
