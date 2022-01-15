@@ -15,7 +15,7 @@ Step 4 – Sign into Twitch and get the oauth code from https://twitchapps.com/t
 Step 5 – Open VS Code and navigate to the folder you created for the bot. (if you need instructions for Visual Studio Code, you can watch this https://www.youtube.com/watch?v=WPqXP_kLzpo ) <br>
 Step 6 - Using the terminal in VS Code type in "npm init" (no quotes) to start the project. A series of prompts will start and you can contiue to hit enter as there is no special instructions that you have to input here <br>
 Step 7 - Once npm init has finished you'll want to type "npm install tmi.js" (again no quotes) <br>
-Step 8 - You will need to create two folders. One called "settings.json" and the other "index.js" <br>
+Step 8 - You will need to create two files. One called "settings.json" and the other "index.js" <br>
 
 <h3> Bot Configuration </h3>
 <h4> You will have more files in your folder than you see here and that is okay.  We will only be focusing on the settings.json and index.js files for this set up. </h4>
