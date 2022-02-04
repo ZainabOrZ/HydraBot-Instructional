@@ -1,7 +1,7 @@
 <h1 align="center"> My HydraBot </h1>
 
 <h2 align="center"> IMPORTANT </h2>
-PLEASE BE SURE TO READ THIS PAGE BEFORE STARTING TO AVOID ANY ISSUES WITH THE BOT. You can also use the youtube video I referenced as a visual aid
+PLEASE BE SURE TO READ THIS PAGE BEFORE STARTING TO AVOID ANY ISSUES WITH THE BOT. You can also use the youtube video I referenced as a visual aid. There are multiple index.js and settings.json files for you to choose from based on your needs. Please use those files as a reference when setting up your index.js and settings.json file.
 
 <h2 align="center"> Introduction </h2>
 This bot was meant to be used as a Twitch chat bot. I created this bot using Chris Riot's YouTube video (https://www.youtube.com/watch?v=hoiWxlZ6xHw) and his coding template found here https://github.com/ChrisRiot/simple-twitch-bot I needed the bot to work for multiple users simultaneously but was unable to find anything on the web for a multi-headed bot so I made some adjustments. The game I am using the bot for is Ravenfall so the commands in this file were meant for that game. You can change the commands to fit your needs. You will need a code editor (I recommend Visual Studio Code but it is upto you)

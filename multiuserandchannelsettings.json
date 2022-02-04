@@ -1,0 +1,38 @@
+{
+    "channel1": "#CHANNEL NAME",
+    "channelbot1": "CHANNEL BOT NAME",
+
+    "channel2": "#CHANNEL NAME",
+    "channelbot2": "CHANNEL BOT NAME",
+
+    "channel3": "#CHANNEL NAME",
+    "channelbot3": "CHANNEL BOT NAME",
+    //To set this up you would need to know if the channel you are joining is using the local bot or the Central bot. 
+    //If they are using the central bot RavenfallOfficial then you can delete CHANNEL BOT NAME and leave the quotations empty. If using local bot, enter the name of the local bot.
+
+    "username": "USERNAME",
+    "password": "oauth:PRIVATE",
+
+    "username1": "USERNAME",
+    "password1": "oauth:PRIVATE",
+
+    "username2": "USERNAME",
+    "password2": "oauth:PRIVATE",
+
+    "username3": "USERNAME",
+    "password3": "oauth:PRIVATE",
+
+    "username4": "USERNAME",
+    "password4": "oauth:PRIVATE",
+
+    "username5": "USERNAME",
+    "password5": "oauth:PRIVATE",
+
+    "username6": "USERNAME",
+    "password6": "oauth:PRIVATE"
+}
+//Enter your Twitch username (everything besides the oauth code shoud be lowercase) and the usernames of your alts. 
+//For the password you would need to get the oauth code from https://twitchapps.com/tmi/ for each user.
+//Add or delete as many users as you like as long as you follow this format.
+
+//IMPORTANT EVERYTHING MARKED WITH // IN FRONT OF IT MUST BE DELETED FOR THIS FILE TO WORK!!!!!!!!!!!
