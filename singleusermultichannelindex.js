@@ -3,7 +3,7 @@ const { channel1, channelbot1, channel2, channelbot2, channel3, channelbot3, use
 
 //Please enter a unique name in the brackets  and remove the brackets for this user
 const USER1options = {
-    options: { debug: true },
+    options: { debug: false },
     connection: {
         reconnect: true,
         secure: true
