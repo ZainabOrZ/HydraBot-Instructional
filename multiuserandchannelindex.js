@@ -1,7 +1,7 @@
 const tmi = require('tmi.js');
 const { channel1, channelbot1, channel2, channelbot2, channel3, channelbot3, username, password, username1, password1, username2, password2, username3, password3, username4, password4, username5, password5 } = require('./settings.json');
 
-const USER1 options = {
+const USER1options = {
     options: { debug: true },
     connection: {
         reconnect: true,
@@ -32,7 +32,7 @@ USER1.on('message', (channel, user, message) => {
             isVIP = true;
         }
     } catch (error) {}
-    let isMod = user.mod || user 'user-type' === 'mod';
+    let isMod = user.mod || user['user-type'] === 'mod';
     let isBroadcaster = channel.slice(1) === user.username;
     let isSubUp = isSub || isVIP || isMod || isBroadcaster;
     let isVIPUp = isVIP || isMod || isBroadcaster;

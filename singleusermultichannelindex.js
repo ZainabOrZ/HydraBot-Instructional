@@ -32,7 +32,7 @@ USER1.on('mssage', (channel, user, message) => {
             isVIP = true;
         }
     } catch (error) {}
-    let isMod = user.mod || user 'user-type' === 'mod';
+    let isMod = user.mod || user['user-type'] === 'mod';
     let isBroadcaster = channel.slice(1) === user.username;
     let isSubUp = isSub || isVIP || isMod || isBroadcaster;
     let isVIPUp = isVIP || isMod || isBroadcaster;
