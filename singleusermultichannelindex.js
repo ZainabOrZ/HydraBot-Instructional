@@ -1,7 +1,7 @@
 const tmi = require('tmi.js');
 const { channel1, channelbot1, channel2, channelbot2, channel3, channelbot3, username, password } = require('./settings.json');
 
-//Please enter a unique name in the brackets  and remove the brackets for this user
+//Please enter a unique name everywher USER1 is located for this user. If you are using VS Code you can hilight it and then ctrl+f2 to change every USER1 to the choosen name
 const USER1options = {
     options: { debug: true },
     connection: {
