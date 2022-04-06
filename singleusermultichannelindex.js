@@ -33,7 +33,7 @@ USER1.on('message', (channel, user, message) =>{
     
     if(message == `!r`)
     {
-        setTimeout(function(){USER1.say(channel, `!dungeon`)}, 2000);
+        setTimeout(function(){USER1.say(channel, `!raid`)}, 2000);
     }
 });
 
