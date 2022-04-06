@@ -25,11 +25,6 @@ USER1.on('connected', () => {
 
 });
 
-USER1.on('connected', () => {
-    // FOR "#USER1" PUT YOUR NAME AS IT APPEARS ON TWITCH I.E ("#TWITCHNAME" ...
-    USER1.say("#USER1", `HydraBot has been activated!`);
-
-});
 
 USER1.on('message', (channel, user, message) =>{
     if (message == "!d") {
